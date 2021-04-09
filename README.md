@@ -19,6 +19,6 @@ I'm currently a senior at Burlingame High School in California and plan on atten
 
 ### Contact me!
 
-📫 My email is [aaron.becker@gmail.com](mailto:aaron.becker@gmail.com), if you have any questions feel free to send me a note
+📫 My email is [aaron.becker@gmail.com](mailto:aaron.becker@gmail.com), if you have any questions feel free to send me a note.
 
 For up-to-date information on jobs and internships, check out my [LinkedIn](https://www.linkedin.com/in/aaron-m-becker/).
