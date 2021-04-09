@@ -8,7 +8,7 @@ I'm currently a senior at Burlingame High School in California and plan on atten
 
 - 🚀 I designed [Zenith](https://github.com/aaroexxt/TVCRocket), a model rocket that (*ahem ahem tries to*) fly itself using thrust-vector control.
 - 🖥️ I also wrote some [ground station software](https://github.com/aaroexxt/RocketGroundStation), for remote flight monitoring and management.
-- 🛹 I'm working on a [custom electric skateboard](https://github.com/aaroexxt/ESkateOS) and remote to commute in style, in addition to an [electric bike](https://github.com/aaroexxt/BikeOSMKII)
+- 🛹 I'm working on a custom electric [skateboard and remote](https://github.com/aaroexxt/ESkateOS) to commute in style, in addition to an [electric bike](https://github.com/aaroexxt/BikeOSMKII)
 - 🚗 I [hacked my Subaru](https://github.com/aaroexxt/CarHacking) to read data from the car's ECU (Engine Control Unit) in real-time
 - 🗣 I [created a dataset](https://github.com/aaroexxt/tacotron) to train a neural network to synthesize my voice (the results are only mildly creepy)
 - 🕹️ I made a video game [rendering engine](https://github.com/aaroexxt/ASCII-Physics-Engine) that outputs only ASCII characters, and then made a [working game](https://www.aaronbecker.tech/projects/code/platformedv5/) with it! ~~*Checkmate Kindle E-Reader gamers 😎*~~
