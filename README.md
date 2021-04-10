@@ -6,7 +6,7 @@ I'm currently a senior at Burlingame High School in California and plan on atten
 
 ### My favorite projects
 
-- 🚀 I designed [Zenith](https://github.com/aaroexxt/TVCRocket), a model rocket that (*ahem ahem tries to*) fly itself using thrust-vector control.
+- 🚀 I designed [Zenith](https://github.com/aaroexxt/TVCRocket), a model rocket that uses thrust-vectored control to stabilize itself.
 - 🖥️ I also wrote some [ground station software](https://github.com/aaroexxt/RocketGroundStation), for remote flight monitoring and management.
 - 🛹 I'm working on a custom electric [skateboard and remote](https://github.com/aaroexxt/ESkateOS) to commute in style, in addition to an [electric bike](https://github.com/aaroexxt/BikeOSMKII)
 - 🚗 I [hacked my Subaru](https://github.com/aaroexxt/CarHacking) to read data from the car's ECU (Engine Control Unit) in real-time
