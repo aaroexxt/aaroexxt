@@ -2,7 +2,7 @@
 
 I enjoy taking on solo and team projects spanning different disciplines of engineering, from custom e-bike drivetrains to reverse engineering my car!
 
-I'm currently a senior at Burlingame High School in California and plan on attending MIT next year as part of the Class of 2025.
+I'm currently a freshman at MIT as part of the Class of 2025.
 
 ### My favorite projects
 
