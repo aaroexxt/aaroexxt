@@ -6,7 +6,7 @@ I'm currently a freshman at MIT as part of the Class of 2025.
 
 ### My favorite projects
 
-- 🚀 I designed ~~[Zenith](https://github.com/aaroexxt/TVCRocket)~~, a model rocket that uses thrust-vectored control to stabilize itself. (Note: Made private due to ITAR exposure)
+- 🚀 I designed ~~[Zenith](https://github.com/aaroexxt/TVCRocket)~~, a model rocket that uses thrust-vectored control to stabilize itself. (Note: Made private due to potential for legal action due to [ITAR](https://en.wikipedia.org/wiki/International_Traffic_in_Arms_Regulations))
 - 🖥️ I also wrote some [ground station software](https://github.com/aaroexxt/RocketGroundStation), for remote flight monitoring and management.
 - 🛹 I'm working on a custom electric [skateboard and remote](https://github.com/aaroexxt/ESkateOS) to commute in style, in addition to an [electric bike](https://github.com/aaroexxt/BikeOSMKII)
 - 🚗 I [hacked my Subaru](https://github.com/aaroexxt/CarHacking) to read data from the car's ECU (Engine Control Unit) in real-time
