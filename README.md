@@ -2,7 +2,7 @@
 
 I enjoy taking on solo and team projects spanning different disciplines of engineering, from custom e-bike drivetrains to reverse engineering my car!
 
-I'm currently a junior at MIT as part of the Class of 2025.
+I'm currently a senior at MIT as part of the Class of 2025, majoring in Mechanical Engineering (Course 2), and minoring in Computer Science (Course 6).
 
 ### My favorite projects
 
